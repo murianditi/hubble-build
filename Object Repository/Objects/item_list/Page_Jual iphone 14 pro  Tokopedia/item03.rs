@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>item03</name>
+   <tag></tag>
+   <elementGuidId>91cbbaf3-58b2-4f0b-99a8-bdf81bc197e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[5]/div/div[3]/div/div/div/div/div/div[2]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>37d44381-9707-4367-afd1-ba4bfd51164d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prd_link-product-name css-3um8ox</value>
+      <webElementGuid>92deb42a-4e7a-442a-83f5-e32de2c3e02a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>spnSRPProdName</value>
+      <webElementGuid>90ad55d4-890a-48b0-b9c4-04c5f169e117</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>iphone 14 pro</value>
+      <webElementGuid>1c924819-2513-4ff2-82f8-f9f5cad9f5ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-jau1bt&quot;]/div[@class=&quot;css-1c82svt&quot;]/div[@class=&quot;css-rjanld&quot;]/div[5]/div[@class=&quot;css-jza1fo&quot;]/div[@class=&quot;css-12sieg3&quot;]/div[@class=&quot;css-y5gcsw&quot;]/div[@class=&quot;css-5fmc3z&quot;]/div[@class=&quot;css-qa82pd&quot;]/div[@class=&quot;prd_container-card css-1c4umxf&quot;]/div[@class=&quot;pcv3__container css-gfx8z3&quot;]/div[@class=&quot;css-974ipl&quot;]/a[@class=&quot;pcv3__info-content css-gwkf0u&quot;]/div[@class=&quot;prd_link-product-name css-3um8ox&quot;]</value>
+      <webElementGuid>04c2e8ca-3ad0-4674-940b-e82fe7edbbcd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[5]/div/div[3]/div/div/div/div/div/div[2]/a/div</value>
+      <webElementGuid>ceaf5208-685f-4cd5-a920-74b072227e21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terjual 1'])[1]/following::div[12]</value>
+      <webElementGuid>58e3be5b-590f-4abc-a18d-ce27354d9e17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sekenskuy'])[1]/following::div[13]</value>
+      <webElementGuid>ad12412e-0320-44f9-8928-16273ed645c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp12.000.000'])[1]/preceding::div[1]</value>
+      <webElementGuid>ff7e38ac-db58-4b69-8840-3540f245dfe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kab. Subang'])[1]/preceding::div[3]</value>
+      <webElementGuid>93bc44e9-1202-4b24-b3ce-638adf5ab952</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div[2]/a/div</value>
+      <webElementGuid>4995c5f1-9833-4d71-aa2f-4b815de3c6d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'iphone 14 pro' or . = 'iphone 14 pro')]</value>
+      <webElementGuid>e50c6536-423b-4cba-8c50-2556709b7072</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

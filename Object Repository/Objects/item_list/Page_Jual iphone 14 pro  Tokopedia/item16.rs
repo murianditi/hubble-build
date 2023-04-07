@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>item16</name>
+   <tag></tag>
+   <elementGuidId>185337e5-0ab7-4aee-8d5f-d3eff8fc5023</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[5]/div[2]/div[6]/div/div/div/div/div/div[2]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6735ff86-ffb9-4411-aeb1-bf18221f54ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prd_link-product-name css-3um8ox</value>
+      <webElementGuid>4e48cbc0-ed10-4ec4-b8b9-7a2d096b0b4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>spnSRPProdName</value>
+      <webElementGuid>e93468c6-3b5a-4f1e-9595-e6a3355204a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PROMO BULAN INI iPhone 14 Pro 128GB 256GB 512GB 1TB Black Silver</value>
+      <webElementGuid>8bea8375-f88f-40fa-afc6-058edba300de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-jau1bt&quot;]/div[@class=&quot;css-1c82svt&quot;]/div[@class=&quot;css-rjanld&quot;]/div[5]/div[@class=&quot;css-jza1fo&quot;]/div[@class=&quot;css-12sieg3&quot;]/div[@class=&quot;css-y5gcsw&quot;]/div[@class=&quot;css-5fmc3z&quot;]/div[@class=&quot;css-qa82pd&quot;]/div[@class=&quot;prd_container-card css-1c4umxf&quot;]/div[@class=&quot;pcv3__container css-gfx8z3&quot;]/div[@class=&quot;css-974ipl&quot;]/a[@class=&quot;pcv3__info-content css-gwkf0u&quot;]/div[@class=&quot;prd_link-product-name css-3um8ox&quot;]</value>
+      <webElementGuid>1126b8db-5ca1-48c4-a24a-65962c0d7187</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[5]/div[2]/div[6]/div/div/div/div/div/div[2]/a/div</value>
+      <webElementGuid>e7063942-a488-4ee6-bd3a-f11f9d2f132d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='amarmoh'])[1]/following::div[12]</value>
+      <webElementGuid>0919d55b-59c3-4180-82f2-59432d8c675b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kab. Tegal'])[1]/following::div[12]</value>
+      <webElementGuid>874299ce-44a1-411c-8b67-2c0920d20b3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp13.838.500'])[1]/preceding::div[1]</value>
+      <webElementGuid>3a1deb6b-cb81-4e55-a521-c2f945988557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jakarta Pusat'])[4]/preceding::div[3]</value>
+      <webElementGuid>1b3156fa-2bda-4bf0-91a6-ec35eaeb7c53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PROMO BULAN INI iPhone 14 Pro 128GB 256GB 512GB 1TB Black Silver']/parent::*</value>
+      <webElementGuid>f3a7e087-25d1-439a-b363-8ab4b8893508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[6]/div/div/div/div/div/div[2]/a/div</value>
+      <webElementGuid>ff65264b-bfd3-47be-a494-a3923bb63f04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PROMO BULAN INI iPhone 14 Pro 128GB 256GB 512GB 1TB Black Silver' or . = 'PROMO BULAN INI iPhone 14 Pro 128GB 256GB 512GB 1TB Black Silver')]</value>
+      <webElementGuid>aa8f03fd-1e1d-4b9f-b6e2-4ec923aaab01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

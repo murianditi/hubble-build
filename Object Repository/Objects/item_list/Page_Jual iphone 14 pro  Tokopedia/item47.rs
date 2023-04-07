@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>item47</name>
+   <tag></tag>
+   <elementGuidId>3e282409-5448-4ac6-87b1-f7d733eeda94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[5]/div[2]/div[37]/div/div/div/div/div/div[2]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0e4f751a-fc63-43e1-9a18-6803fd28baf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prd_link-product-name css-3um8ox</value>
+      <webElementGuid>c1e1e3a0-2e36-467a-9d75-069f185cb2c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>spnSRPProdName</value>
+      <webElementGuid>f3578bb7-7cc6-419e-9028-5dc747ee74c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Iphone 14 pro zpa singapure 128gb purple wifi only</value>
+      <webElementGuid>dcc7a99e-b897-4737-940a-142f39f22fbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-jau1bt&quot;]/div[@class=&quot;css-1c82svt&quot;]/div[@class=&quot;css-rjanld&quot;]/div[5]/div[@class=&quot;css-jza1fo&quot;]/div[@class=&quot;css-12sieg3&quot;]/div[@class=&quot;css-y5gcsw&quot;]/div[@class=&quot;css-5fmc3z&quot;]/div[@class=&quot;css-qa82pd&quot;]/div[@class=&quot;prd_container-card css-1c4umxf&quot;]/div[@class=&quot;pcv3__container css-gfx8z3&quot;]/div[@class=&quot;css-974ipl&quot;]/a[@class=&quot;pcv3__info-content css-gwkf0u&quot;]/div[@class=&quot;prd_link-product-name css-3um8ox&quot;]</value>
+      <webElementGuid>240c27c3-a8c0-41d2-950f-65fc48edacf9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[5]/div[2]/div[37]/div/div/div/div/div/div[2]/a/div</value>
+      <webElementGuid>450f353b-c650-40ac-b489-5d32f8249d19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='toko electronia'])[9]/following::div[12]</value>
+      <webElementGuid>f16af5ee-d7a1-496f-a1c4-a8495efd386d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanjung Pinang'])[9]/following::div[12]</value>
+      <webElementGuid>ba92a3eb-8a33-4284-a6be-5179542195f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp14.700.000'])[1]/preceding::div[1]</value>
+      <webElementGuid>8ad73267-2088-48b1-8280-b463d6d97789</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kab. Bandung'])[1]/preceding::div[3]</value>
+      <webElementGuid>02fd81b3-9ae1-42b7-ac32-d93d5629c639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Iphone 14 pro zpa singapure 128gb purple wifi only']/parent::*</value>
+      <webElementGuid>4871720e-8723-420c-8541-60d486f9064f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[37]/div/div/div/div/div/div[2]/a/div</value>
+      <webElementGuid>1bbf7433-f663-40af-a4db-d86c8975b63d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Iphone 14 pro zpa singapure 128gb purple wifi only' or . = 'Iphone 14 pro zpa singapure 128gb purple wifi only')]</value>
+      <webElementGuid>e8333445-af2b-4ab1-805b-cbef3715e53f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

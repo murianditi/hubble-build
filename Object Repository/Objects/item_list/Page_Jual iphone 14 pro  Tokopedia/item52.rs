@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>item52</name>
+   <tag></tag>
+   <elementGuidId>deade990-0f1d-47d1-9e88-1c74ab2a9e33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[5]/div[2]/div[42]/div/div/div/div/div/div[2]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dacd05ba-1fe0-4da2-b521-927d3598d028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prd_link-product-name css-3um8ox</value>
+      <webElementGuid>9fe61b98-87fc-4583-a9ee-6cf60fc4c094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>spnSRPProdName</value>
+      <webElementGuid>5004d2c3-b73c-4dfa-a05b-4c6454435b0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IBOX Apple iPhone 14 Pro Max Promax 14 Pro 5G 128GB 256GB 512GB 1TB - </value>
+      <webElementGuid>63d3aef5-094a-467e-82b5-cab969dc34c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-jau1bt&quot;]/div[@class=&quot;css-1c82svt&quot;]/div[@class=&quot;css-rjanld&quot;]/div[5]/div[@class=&quot;css-jza1fo&quot;]/div[@class=&quot;css-12sieg3&quot;]/div[@class=&quot;css-y5gcsw&quot;]/div[@class=&quot;css-5fmc3z&quot;]/div[@class=&quot;css-qa82pd&quot;]/div[@class=&quot;prd_container-card css-1c4umxf&quot;]/div[@class=&quot;pcv3__container css-gfx8z3&quot;]/div[@class=&quot;css-974ipl&quot;]/a[@class=&quot;pcv3__info-content css-gwkf0u&quot;]/div[@class=&quot;prd_link-product-name css-3um8ox&quot;]</value>
+      <webElementGuid>fd6c19bb-8d8b-48f9-8a1f-b6682fbdd426</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[5]/div[2]/div[42]/div/div/div/div/div/div[2]/a/div</value>
+      <webElementGuid>690dcb9f-4113-4c2f-977b-0f045bfb8ee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wijaya Phone SMG'])[1]/following::div[12]</value>
+      <webElementGuid>cab9fcd7-4b4c-4e64-9567-f26374ad8f5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semarang'])[2]/following::div[12]</value>
+      <webElementGuid>9509c575-b75b-49bd-bade-b202122589fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp14.999.999'])[1]/preceding::div[1]</value>
+      <webElementGuid>e3a9de28-6564-490b-ab8b-5d8d509a2037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kab. Serang'])[5]/preceding::div[3]</value>
+      <webElementGuid>3cc10970-09c0-4a2a-b99f-02ded780ce50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='IBOX Apple iPhone 14 Pro Max Promax 14 Pro 5G 128GB 256GB 512GB 1TB -']/parent::*</value>
+      <webElementGuid>ec464110-6a32-4455-844d-c0826cb24788</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[42]/div/div/div/div/div/div[2]/a/div</value>
+      <webElementGuid>aa048401-ce0d-4cb0-a6a4-7927cf76e6b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'IBOX Apple iPhone 14 Pro Max Promax 14 Pro 5G 128GB 256GB 512GB 1TB - ' or . = 'IBOX Apple iPhone 14 Pro Max Promax 14 Pro 5G 128GB 256GB 512GB 1TB - ')]</value>
+      <webElementGuid>3474906b-7adf-411e-bb10-5fb2f8b68778</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

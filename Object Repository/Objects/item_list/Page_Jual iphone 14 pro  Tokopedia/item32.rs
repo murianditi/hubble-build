@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>item32</name>
+   <tag></tag>
+   <elementGuidId>f6fb5725-4292-462a-a496-781bdcaadbd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[5]/div[2]/div[22]/div/div/div/div/div/div[2]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6ce49578-cc62-4b32-a6c7-3cdfd9e91f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prd_link-product-name css-3um8ox</value>
+      <webElementGuid>b2ebbe20-0af9-4f3b-ae5e-0542661b46fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>spnSRPProdName</value>
+      <webElementGuid>cdd77793-2efc-4195-87d1-d0b49ff5883e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>promo spesial Apple iPhone 14 Pro - Garansi Resmi iBox Apple Indonesia</value>
+      <webElementGuid>5c319353-6c8f-4d7b-b085-20f639f636d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-jau1bt&quot;]/div[@class=&quot;css-1c82svt&quot;]/div[@class=&quot;css-rjanld&quot;]/div[5]/div[@class=&quot;css-jza1fo&quot;]/div[@class=&quot;css-12sieg3&quot;]/div[@class=&quot;css-y5gcsw&quot;]/div[@class=&quot;css-5fmc3z&quot;]/div[@class=&quot;css-qa82pd&quot;]/div[@class=&quot;prd_container-card css-1c4umxf&quot;]/div[@class=&quot;pcv3__container css-gfx8z3&quot;]/div[@class=&quot;css-974ipl&quot;]/a[@class=&quot;pcv3__info-content css-gwkf0u&quot;]/div[@class=&quot;prd_link-product-name css-3um8ox&quot;]</value>
+      <webElementGuid>cc1d6f13-9da4-47bd-a11c-cf32022ff21b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[5]/div[2]/div[22]/div/div/div/div/div/div[2]/a/div</value>
+      <webElementGuid>49e00655-f8b3-4e7e-9f7d-c62a46bb96d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HP Official 77'])[1]/following::div[12]</value>
+      <webElementGuid>beb8c664-bb24-472a-bd57-a441ba76c896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kab. Sidoarjo'])[3]/following::div[12]</value>
+      <webElementGuid>3509ab1b-773a-4df6-9a55-1da118873a1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp14.139.300'])[1]/preceding::div[1]</value>
+      <webElementGuid>b3ca5b41-fd84-457d-a5d6-26c5ebd7c2f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanjung Pinang'])[5]/preceding::div[3]</value>
+      <webElementGuid>11cdc260-6531-459f-836a-015ad4444063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='promo spesial Apple iPhone 14 Pro - Garansi Resmi iBox Apple Indonesia']/parent::*</value>
+      <webElementGuid>38bca2c2-c9f7-452a-a034-766d8625cafe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[22]/div/div/div/div/div/div[2]/a/div</value>
+      <webElementGuid>df5b5cd5-5dc7-47ea-aabc-795919c9b86b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'promo spesial Apple iPhone 14 Pro - Garansi Resmi iBox Apple Indonesia' or . = 'promo spesial Apple iPhone 14 Pro - Garansi Resmi iBox Apple Indonesia')]</value>
+      <webElementGuid>77b1acca-df36-4a67-bb07-c23cb1bd0b2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

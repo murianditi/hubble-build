@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Harga Terendah</name>
+   <tag></tag>
+   <elementGuidId>b3b34382-c2cf-4031-b89d-3d23264e752b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::button[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7d4369c9-a37e-44f9-81b2-5a0072fff5f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-nzq9o0</value>
+      <webElementGuid>d9050062-cadf-4d48-b275-0ee54e1ed115</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unf</name>
+      <type>Main</type>
+      <value>select-menu-item-btn</value>
+      <webElementGuid>3b3f7ada-8722-4103-9262-71a074c2fcfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-has-subitem</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>7e10a4bc-2c7e-4bc4-a926-fa330f8101bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-item-text</name>
+      <type>Main</type>
+      <value>Harga Terendah</value>
+      <webElementGuid>7f921255-7025-4a25-b73b-c24d8197e9cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Harga Terendah</value>
+      <webElementGuid>827914aa-fbba-41ba-82c8-83ad5a00976e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[7]/div[@class=&quot;css-1f770p3 e17suhym1&quot;]/div[@class=&quot;css-19os3da e83okfj4&quot;]/ul[@class=&quot;css-rxgulu&quot;]/li[@class=&quot;css-d2qf6r e83okfj5&quot;]/button[@class=&quot;css-nzq9o0&quot;]</value>
+      <webElementGuid>9fe19e01-6a81-4408-9ba1-03d24d532a74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::button[5]</value>
+      <webElementGuid>ef2f7643-417f-4dab-b2e8-abdeff19e185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::button[5]</value>
+      <webElementGuid>ce7f493b-85a1-48bd-a06c-d48c13822f65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/button</value>
+      <webElementGuid>7d640a46-1726-45c0-9fa2-8338b3bf43d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Harga Terendah' or . = 'Harga Terendah')]</value>
+      <webElementGuid>9f9d6919-74ba-4b59-aae9-ebdd8cd66b22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sort</name>
+   <tag></tag>
+   <elementGuidId>b07f023f-5926-4197-ae66-de4f88ef5ca5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[2]/div/div/button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-tdlia4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8b8348bd-f7a3-45b4-b4f1-fc81c57c798b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-tdlia4</value>
+      <webElementGuid>9fdb5d0d-57ee-45ce-b3d7-f8fe762ce491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Paling Sesuai</value>
+      <webElementGuid>72496843-2af0-4d9e-b751-a54410c5f0e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-jau1bt&quot;]/div[@class=&quot;css-1c82svt&quot;]/div[@class=&quot;css-rjanld&quot;]/div[@class=&quot;css-w01oz8&quot;]/div[@class=&quot;css-16hrxnz&quot;]/div[@class=&quot;css-1ro2jof e83okfj0&quot;]/button[@class=&quot;css-1g467vj e83okfj1&quot;]/div[@class=&quot;css-tdlia4&quot;]</value>
+      <webElementGuid>d83982d0-d6cc-4d13-8c3f-bf6a78cd7fb9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[2]/div/div/button/div</value>
+      <webElementGuid>04e4c1f4-f3f8-4fdb-9297-93f77891481d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Urutkan:'])[1]/following::div[2]</value>
+      <webElementGuid>416deefe-6935-442f-9038-2d0be04b75f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('', '&quot;', 'iphone 14 pro', '&quot;', '')])[1]/following::div[3]</value>
+      <webElementGuid>98680ffe-1c27-404f-b93a-b99797466926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga Minimum'])[1]/preceding::div[1]</value>
+      <webElementGuid>7e20304f-c9bb-4e9a-b1a2-9c02d74175cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga Maksimum'])[1]/preceding::div[2]</value>
+      <webElementGuid>ded31c5b-c4ce-4413-b0af-5e413f677e3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>3de2f05c-282e-444b-81bc-1a882f54dc2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Paling Sesuai' or . = 'Paling Sesuai')]</value>
+      <webElementGuid>c15c40d6-931a-4cf5-9470-fd76403b54cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

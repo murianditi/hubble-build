@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sort_lowest_price</name>
+   <tag></tag>
+   <elementGuidId>1d941480-d97f-4d7c-9021-13b3271def12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Terjual 100+'])[9]/following::p[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fa8f29f3-21fa-4d9f-bf61-c7d37aa0186d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Typography</value>
+      <webElementGuid>f7f7d743-6ef7-4a81-b422-c4f9ae3e42c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-3tkidh-unf-heading e1qvo2ff8</value>
+      <webElementGuid>ef397682-3250-4693-887b-11f4eafcfccc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Harga Terendah</value>
+      <webElementGuid>ddd19308-b6b8-44cd-ab14-3f4c6bc11365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[7]/div[@class=&quot;css-1f770p3 e17suhym1&quot;]/div[@class=&quot;css-19os3da e83okfj4&quot;]/ul[@class=&quot;css-rxgulu&quot;]/li[@class=&quot;css-d2qf6r e83okfj5&quot;]/button[@class=&quot;css-nzq9o0&quot;]/div[@class=&quot;css-18biwo&quot;]/div[1]/p[@class=&quot;css-3tkidh-unf-heading e1qvo2ff8&quot;]</value>
+      <webElementGuid>a330ef04-018d-4628-adb6-49fcbc7dc9bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terjual 100+'])[9]/following::p[5]</value>
+      <webElementGuid>e8670734-cd8e-4648-af8c-f3fc31658987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fieri Official'])[1]/following::p[5]</value>
+      <webElementGuid>74fd661d-0572-4b2c-b642-5f4679e87891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Harga Terendah']/parent::*</value>
+      <webElementGuid>9ed5d227-3580-4af1-b1f3-8722a0e13a91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/button/div/div/p</value>
+      <webElementGuid>d3d984c8-2e12-423f-80c0-f055abfec603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Harga Terendah' or . = 'Harga Terendah')]</value>
+      <webElementGuid>331c4f61-23a1-4b43-85af-db986fa9a8dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
